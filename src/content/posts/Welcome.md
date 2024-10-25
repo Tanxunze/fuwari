@@ -1,5 +1,5 @@
 ---
-title: Welcome to Weekly Nespaper!
+title: Welcome to Weekly Newspaper!
 published: 2024-10-25
 description: 'This is a test page'
 image: 'https://cfr2.mionet.top/mionet-a/2024/10/14/670c040f69128.png'
