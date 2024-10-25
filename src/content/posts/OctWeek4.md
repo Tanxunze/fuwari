@@ -1,10 +1,10 @@
 ---
 title: Oct. Week4 Newspaper
 published: 2024-10-27
-description: ''
-image: ''
+description: '这只是一个小小的尝试'
+image: 'https://cfr2.mionet.top/mionet-a/2024/10/26/671c183541481.jpg'
 tags: ['News','Meme','手元']
-category: ''
+category: 'News'
 draft: false 
 lang: ''
 ---
@@ -20,8 +20,6 @@ lang: ''
 - 国防自行车（From @ink）
 
   ![80731d0eeb95dff745bb1a115f666821.jpg](https://cfr2.mionet.top/mionet-a/2024/10/26/671c15664d023.jpg)
-
-  
 
 - 校内多家快递停止合作（From @miku老公）
 
@@ -69,7 +67,7 @@ lang: ''
 
 - "新概念音游"
 
-​		![1000096529.jpg](https://cfr2.mionet.top/mionet-a/2024/10/26/671c17d0ecfc0.jpg)
+​  ![1000096529.jpg](https://cfr2.mionet.top/mionet-a/2024/10/26/671c17d0ecfc0.jpg)
 
 - @yuyu
 
@@ -81,17 +79,15 @@ lang: ''
 
   ![1000096535.jpg](https://cfr2.mionet.top/mionet-a/2024/10/26/671c1ad5870df.jpg)
 
-
-
 ## 3. Ranker
 
 - Osu 140pp [@Praeshere](https://fame.arcueid.org/member/2)
 
   ![bf1620bf6f4fc46e8c456dc5adb15601.png](https://cfr2.mionet.top/mionet-a/2024/10/26/671c19bb4008d.png)
 
-​	   ![97c08ab267d79c3c8d0fb92432d2a3b8.png](https://cfr2.mionet.top/mionet-a/2024/10/26/671c1a66eec8f.png)  
+​    ![97c08ab267d79c3c8d0fb92432d2a3b8.png](https://cfr2.mionet.top/mionet-a/2024/10/26/671c1a66eec8f.png)  
 
-- 
+-
 
 ## 4. Info
 
